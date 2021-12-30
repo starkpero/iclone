@@ -18,7 +18,7 @@ function login() {
         document.title = 'Login-iClone'
     }, [])
     return (
-        <div>
+        <div className="container flex mx-auto max-w-screen-md items-center h-screen">
             <p>I am the login page</p>
         </div>
     )
